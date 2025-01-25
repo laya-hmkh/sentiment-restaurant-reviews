@@ -2,7 +2,7 @@
 
 This repository contains a complete pipeline for sentiment analysis, specifically applied to restaurant review data. The main steps are:
     Data Loading and Inspection: Reading a TSV file with reviews and labels.
-    Text Preprocessing:
+    Text Preprocessing:\n
         Regular expression-based cleaning.
         Lowercase conversion.
         Tokenization and stemming using nltk.
